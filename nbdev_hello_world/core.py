@@ -8,7 +8,7 @@ __all__ = ['foo', 'say_hello']
 # %% ../nbs/00_core.ipynb 3
 def foo(): pass
 
-# %% ../nbs/00_core.ipynb 5
+# %% ../nbs/00_core.ipynb 9
 def say_hello(to):
     "Say hello to somebody"
     return f'Hello {to}!'
